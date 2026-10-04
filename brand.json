@@ -1,0 +1,30 @@
+{
+  "_setup": "Claude fills this file on first use by asking you a few questions. You can also edit it by hand.",
+  "configured": false,
+  "name": "השם שלך",
+  "business": "שם העסק",
+  "handle": "yourhandle",
+  "what_i_do": "משפט אחד: במה אני עוזר ולמי",
+  "audience": "מי קהל היעד, ומה הכאב המרכזי שלו",
+  "core_message": "המסר שחוזר בכל קרוסלה, במילים אחרות כל פעם",
+  "voice": "איך אני מדבר: למשל ישיר, חם, בגוף ראשון, בלי מילים גבוהות",
+  "language": "he",
+  "direction": "rtl",
+  "theme": "dark",
+  "colors": {
+    "background": "#0B0B12",
+    "text": "#F2F2F7",
+    "muted": "#A3A3B5",
+    "accent": "#3B9EFF",
+    "accent2": "#8B5CF6",
+    "warning": "#F5A742"
+  },
+  "fonts": {
+    "heading": "Heebo",
+    "body": "Rubik"
+  },
+  "logo": "assets/logo.png",
+  "profile_photo": "assets/profile.jpg",
+  "image_style": "high-quality 3D animated film render (Pixar-like), soft cinematic lighting",
+  "default_offer": "מה מקבל מי שמגיב לקרוסלה כשאין מתנה אחרת (למשל: קישור לשיחת היכרות)"
+}

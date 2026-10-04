@@ -1,0 +1,10 @@
+{
+  "name": "instagram-carousel-skill",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Claude Code skill: write, design and export Instagram carousels",
+  "dependencies": {
+    "playwright": "^1.50.0",
+    "sharp": "^0.34.0"
+  }
+}

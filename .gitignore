@@ -1,0 +1,9 @@
+# Secrets and personal files never go to GitHub
+.env
+.env.*
+!.env.example
+node_modules/
+assets/
+generation-log.csv
+carousels/
+*.log
